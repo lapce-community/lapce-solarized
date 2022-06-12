@@ -4,4 +4,4 @@ description = "Lapce themes for dark and light solarized"
 version = "0.1.2"
 author = "VixieTSQ"
 repository = "VixieTSQ/lapce-solarized"
-themes = ["dark solarized.toml"]
+themes = ["dark solarized.toml", "light solarized.toml"]
